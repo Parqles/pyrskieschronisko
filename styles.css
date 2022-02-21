@@ -19,7 +19,7 @@ h1, p {
 
 
   .tabelka {
-    background: rgb(126, 180, 226, 0.6);
+      background: rgb(255, 255, 255, 0.3);
     border-radius: 2em;
     padding: 0.5em;
     margin-bottom: 5%;
